@@ -14,15 +14,6 @@ The app's components lives in `./components`. Redux actions and reducers live in
 
 ### Setup:
 ```bash
-npm install -g babel
-npm install -g babel-cli
-npm install babel-core
-npm install babel-loader
-npm install babel-preset-react
-npm install babel-preset-es2015
-```
-
-```bash
 npm install
 ```
 
