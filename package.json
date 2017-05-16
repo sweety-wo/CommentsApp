@@ -1,0 +1,19 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "App would allow a user to view comments as well as add their own comment",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "sweety.webashlar@gmail.com",
+  "license": "",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
