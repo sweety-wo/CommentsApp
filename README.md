@@ -1,9 +1,6 @@
 # Comments App
 
 Welcome to Comments App. I am building a ReactJS app for allowing a user to view comments as well as add their own comment.
-
-Quick links:
-Product: 'https://devlatest.finfolio.com'
  
 ## Technology Overview
 
